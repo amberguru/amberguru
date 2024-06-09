@@ -10,6 +10,3 @@ I'm [amber guru], a freshman passionate about Blockchain and Golang.
 
 ---
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amberguru&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amberguru&layout=compact&theme=radical)
